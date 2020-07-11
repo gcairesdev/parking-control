@@ -1,45 +1,57 @@
-# Product Name
-> Short blurb about what your product does.
+# Parking control
+> A pseudocode that manages the entry and exit of vehicles from an establishment.
 
 [![Code Size][code-size]][code-url]
 [![License][MIT-license]][MIT-url]
 [![Realese][version]][version-url]
 
-One to two paragraph statement about your product and what it does.
+Manages the entry and exit of vehicles from an establishment, through a card count, with the registration of vehicle information.
 
 🇧🇷 [Portuguese version](../README.md)
 
 🇺🇸 English version
 
 <p align="center">
-    <img src="./img/header.png"></img>
+    <img src=".github/img/header.png"></img>
 </p>
 
 ## 🎯 Objective
 
-Talk a little about the purpose of your project.
+The objective of the project is to manage the entry and exit of vehicles from an establishment. It was developed, thinking about our SENAI unit, as a security measure.
 
 ## ✒️ Justification
 
-Is there any justification for why you developed this project?
+During the project, the knowledge acquired during the Programming Logic course of the Systems Development technical course - SENAI was put into practice.
 
 ## 👷 Installation
 
 Clone repository:
 
 ```git
-git clone https://github.com/gcairesdev/project
+git clone https://github.com/gcairesdev/parking-control
 ```
+
+Run the _parking-control.ALG_ file:
+
+For that you will need [VisualG](https://visualg3.com.br/)
 
 ## 👨‍🏫 Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Some screenshots of the running program:
+
+<!--
+<p align="center">
+    <img src=".github/img/1.png"></img>
+</p>
+-->
 
 ## 👨🏼‍💻 Author
 
 Photo | Name | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/54117888?s=460&u=aa7d6143c4e1fdab1ffa6e5fd5ebfe64572f2eae&v=4" width="100px"> | Guilherme Caires | [gcairesdev](https://github.com/gcairesdev) | [Linkedin](https://linkedin.com/in/guilherme-caires/) | contatogcaires@gmail.com
+<img src="https://avatars2.githubusercontent.com/u/56545903?s=400&u=7445f50f4a7c02a76fef37d74a1f84b2bf2c7109&v=4" width="100px"> | Jefferson Eloy   | [jeffeloy](https://github.com/jeffeloy) | [Linkedin](https://www.linkedin.com/in/jefferson-eloy/) | contatojeloydev@gmail.com
+<img src="https://avatars1.githubusercontent.com/u/56982754?s=400&u=a537df81fe05766ba268fc1a9434182d845c4341&v=4" width="100px"> | Joanderson Santos| [joandersonSJ](https://github.com/joandersonSJ) | [Linkedin](https://www.linkedin.com/in/oanderson-santos-5b63a9196/) | joandersonsantosdev@gmail.com
 
 ## 🤝 Contributing
 
@@ -57,11 +69,11 @@ This project is under the [MIT license](../LICENSE.md).
 </p>
 
 <!-- Markdown link & img dfn's -->
-[code-size]: https://img.shields.io/github/languages/code-size/gcairesdev/project-template
-[code-url]: https://github.com/gcairesdev/project-template
+[code-size]: https://img.shields.io/github/languages/code-size/gcairesdev/parking-control
+[code-url]: https://github.com/gcairesdev/parking-control
 
-[MIT-license]: https://img.shields.io/github/license/gcairesdev/project-template
-[MIT-url]: https://github.com/gcairesdev/project-template/blob/master/LICENSE.md
+[MIT-license]: https://img.shields.io/github/license/gcairesdev/parking-control
+[MIT-url]: https://github.com/gcairesdev/parking-control/blob/master/LICENSE.md
 
-[version]: https://img.shields.io/github/v/release/gcairesdev/project-template?include_prereleases
-[version-url]: https://github.com/gcairesdev/project-template
+[version]: https://img.shields.io/github/v/release/gcairesdev/parking-control?include_prereleases
+[version-url]: https://github.com/gcairesdev/parking-control
