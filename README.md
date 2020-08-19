@@ -12,7 +12,7 @@ Gerencia a entrada e saída de veículos de um estabelecimento, através de uma 
 🇺🇸 [Versão em inglês](.github/README-EN.md)
 
 <p align="center">
-    <img src=".github/img/header.png"></img>
+    <img src=".github/img/all-actions.gif"></img>
 </p>
 
 ## 🎯 Objetivo
@@ -39,11 +39,47 @@ Para isso irá precisar do [VisualG](https://visualg3.com.br/)
 
 Algumas capturas de tela do programa em execução:
 
-<!--
+- Tela inicial do programa
+
 <p align="center">
-    <img src=".github/img/1.png"></img>
+    <img src=".github/img/1.PNG" style="margin: 10px 0"></img>
 </p>
--->
+
+- Escolha do veículo a ser cadastrado
+
+<p align="center">
+    <img src=".github/img/2.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Preencher as informações do veículo
+
+<p align="center">
+    <img src=".github/img/3.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Lista de veículos que estão no estacionamento
+
+<p align="center">
+    <img src=".github/img/4.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Preenchendo dados de saída de um veículo
+
+<p align="center">
+    <img src=".github/img/5.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Lista de veículos que saíram ("deletados")
+
+<p align="center">
+    <img src=".github/img/6.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Créditos
+
+<p align="center">
+    <img src=".github/img/credits.gif" style="margin: 10px 0"></img>
+</p>
 
 ## 👨🏼‍💻 Autores
 

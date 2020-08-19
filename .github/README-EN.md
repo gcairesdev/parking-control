@@ -12,7 +12,7 @@ Manages the entry and exit of vehicles from an establishment, through a card cou
 🇺🇸 English version
 
 <p align="center">
-    <img src=".github/img/header.png"></img>
+    <img src="img/all-actions.gif"></img>
 </p>
 
 ## 🎯 Objective
@@ -39,11 +39,47 @@ For that you will need [VisualG](https://visualg3.com.br/)
 
 Some screenshots of the running program:
 
-<!--
+- Program initial screen
+
 <p align="center">
-    <img src=".github/img/1.png"></img>
+    <img src="img/1.PNG" style="margin: 10px 0"></img>
 </p>
--->
+
+- Choice of vehicle to be registered
+
+<p align="center">
+    <img src="img/2.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Fill in vehicle information
+
+<p align="center">
+    <img src="img/3.PNG" style="margin: 10px 0"></img>
+</p>
+
+- List of vehicles in the parking lot
+
+<p align="center">
+    <img src="img/4.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Filling out vehicle data
+
+<p align="center">
+    <img src="img/5.PNG" style="margin: 10px 0"></img>
+</p>
+
+- List of vehicles that have left ("deleted")
+
+<p align="center">
+    <img src="img/6.PNG" style="margin: 10px 0"></img>
+</p>
+
+- Credits
+
+<p align="center">
+    <img src="img/credits.gif" style="margin: 10px 0"></img>
+</p>
 
 ## 👨🏼‍💻 Author
 
